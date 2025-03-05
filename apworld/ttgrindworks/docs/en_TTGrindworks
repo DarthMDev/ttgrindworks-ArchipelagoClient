@@ -1,0 +1,45 @@
+# Toontown: The Grindworks
+
+## Where is the settings page?
+
+The [player settings page](../player-settings) contains the options needed to configure
+your game session.
+
+## What does randomization do to this game?
+
+When connected to a multiworld, all characters apart from those received in the
+multiworld will be unlocked. You may receive characters that you have not unlocked in
+vanilla play, but these will be locked again when you disconnect.
+
+Treasure chests in-game are replaced with Archipelago "check" items. When picked up,
+these will send a check to the multiworld. Depending on your settings, normal treasure
+chests may not appear when randomized.
+
+Depending on your settings, the shop may have less than the default amount  in it.
+You will have to unlock more slots by finding "Progressive Shop" items in the
+multiworld. 
+
+All game progress apart from characters (achievements, etc.)
+are not affected by the randomizer.
+
+
+## What is the goal?
+
+The goal is to beat all floors and the bosses on the executive floor. Depending on your
+settings, you may be able to win  with any character, or your may need to win with a specific character.
+
+## What is a "check"?
+
+Completing a floor by beating a boss. and picking up treasures chests throughout facilities and beating cogs. How many  chests are checks are defined in the
+randomizer settings.
+
+## What "items" can you unlock?
+
+- Additional characters that you can play as. (longer sessions)
+- Accessory drops, as if you had picked up a treasure chest during a normal run.
+  - Item rarity is determined by the randomizer, and the total distribution of item
+    drops mimics the actual game's.
+
+- Upgrades,like extra turn, point boosts and laff boosts
+- Additional items slots in the shop, up to the game's maximum of four.
+- Progressive key to go to the next floor

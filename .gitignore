@@ -178,3 +178,4 @@ cython_debug/
 # VS Code
 .vscode/
 *.code-workspace
+.DS_Store

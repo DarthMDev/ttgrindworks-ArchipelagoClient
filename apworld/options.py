@@ -71,11 +71,10 @@ grindworks_option_groups = [
 
 
 @dataclass
-class ROR2Options(PerGameCommonOptions):
+class GrindworksOptions(PerGameCommonOptions):
     goal: Goal
     victory: Victory
     total_locations: TotalLocations
-    chests_per_stage: ChestsPerEnvironment
     item_pickup_step: ItemPickupStep
     enable_trap: AllowTrapItems
     item_weights: ItemWeights

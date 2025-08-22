@@ -52,7 +52,7 @@ class TTGrindWorksItem(Enum):
     SUPER_TOON_CAPE = "Super Toon Cape"
     MINI_BLINDS = "Mini Blinds"
     GROUCHO_GLASSES = "Groucho Glasses"
-    ANVIL_HAT = "Anvil Hat
+    ANVIL_HAT = "Anvil Hat"
     AVIATOR_GLASSES = "Aviator Glasses"
     DRAGON_WINGS = "Dragon Wings"
     FEZ = "Fez"

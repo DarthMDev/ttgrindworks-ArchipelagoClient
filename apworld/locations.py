@@ -19,3 +19,11 @@ def get_classic_item_pickups(n: int) -> Dict[str, int]:
 
 item_pickups = get_classic_item_pickups(TotalLocations.range_end)
 location_table = item_pickups
+
+# find environment and location offsets (?)
+
+# find locations within a single environment
+
+# get a dictionary of all locations for the given options
+
+# update location table
